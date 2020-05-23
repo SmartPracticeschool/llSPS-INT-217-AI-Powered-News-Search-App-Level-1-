@@ -6,5 +6,5 @@ In this project we’ll get to know the basics and build our own news mining web
 Node-RED UI link:
 https://node-red-kiozu.eu-gb.mybluemix.net/ui/#!/0?socketid=igIl1MQD2cXiFCuiAAAA 
 
-Git link:
+IBM cloud Git link:
 https://eu-gb.git.cloud.ibm.com/kruthendarreddy8/NodeREDKIOZU.git
